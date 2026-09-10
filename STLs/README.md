@@ -2,7 +2,7 @@
 
 Due to the presence of modelled-in supports, all the components under the folder `/import_together` should be imported **first** as a **single object with multiple parts** (click yes when prompted).
 
-![alt text](assets/import.png)
+![alt text](../assets/import.png)
 
 Then, import all other components as separate bodies.
 
